@@ -112,10 +112,6 @@
     </plugin>
     <plugin name="cordova-plugin-whitelist" spec="^1.3.3" />
     <plugin name="cordova-plugin-app-version" spec="~0.1.9" />
-    <plugin name="cordova-plugin-googlemaps">
-        <variable name="API_KEY_FOR_ANDROID" value="AIzaSyAjmF8NPlLayKuyBpSQoNFNwJkYxADE1N8" />
-        <variable name="API_KEY_FOR_IOS" value="AIzaSyDjPbDdbeuwoTR1uqfxCHWX8F-5jJ4AQ6Y" />
-    </plugin>
     <plugin name="cordova-plugin-nslookup" spec="~0.1.0" />
     <plugin name="cordova-plugin-ping" spec="~0.3.1" />
 </widget>
